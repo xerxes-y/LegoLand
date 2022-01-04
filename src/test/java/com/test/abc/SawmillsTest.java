@@ -27,12 +27,6 @@ public class SawmillsTest {
             "Case:2\n" +
             "Max Profit:8\n" +
             "Order: [2, 1, 1] [1, 2, 1] [2, 1] [1, 2] [1, 4]\n";
-    private static String thirdOutPut= "Case:1\n" +
-            "Max Profit:4\n" +
-            "Order: [7, 2]\n" +
-            "Case:2\n" +
-            "Max Profit:6\n" +
-            "Order: [2, 1, 1] [1, 2, 1] [1, 4]\n";
     private static String firstWrongOutPut = "Case:1\n" +
             "Max Profit: 4\n" +
             "Order: [2, 3, 1] [1, 3, 2]\n" +
